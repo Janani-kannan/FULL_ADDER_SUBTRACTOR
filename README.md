@@ -96,8 +96,7 @@ RegisterNumber: 24900415
 
 **Output Timing Waveform**
 
-![RTL view 4_1](https://github.com/user-attachments/assets/fb4727b2-acdf-44dd-8d60-f0eec552abd5)
-![RTL view 4_2](https://github.com/user-attachments/assets/699b5f22-de82-45ac-959c-46179c67fd07)
+![Screenshot ](https://github.com/user-attachments/assets/6551bdb9-1b34-462d-8353-4b4a00a42066)
 
 
 
